@@ -146,6 +146,8 @@
   <ItemGroup>
     <ClCompile Include="FoodIntakeUtilityOptimiserTests.cpp" />
     <ClCompile Include="KnapsackTests.cpp" />
+    <ClCompile Include="KnapsackUtilitiesTests.cpp" />
+    <ClCompile Include="UtilitiesTests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Knapsack\Knapsack.vcxproj">

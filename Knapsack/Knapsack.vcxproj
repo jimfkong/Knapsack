@@ -148,6 +148,7 @@
   <ItemGroup>
     <ClCompile Include="CSVReader.cpp" />
     <ClCompile Include="InputParser.cpp" />
+    <ClCompile Include="KnapsackUtilities.cpp" />
     <ClCompile Include="Utilities.cpp" />
     <ClCompile Include="FoodIntakeUtilityOptimiser.cpp" />
     <ClCompile Include="Knapsack.cpp" />
